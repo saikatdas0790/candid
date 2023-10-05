@@ -12,7 +12,7 @@
     "@dfinity/principal": "0.15.1",
     "buffer": "6.0.3",
     "copy-webpack-plugin": "^9.0.1",
-    "css-loader": "^3.6.0",
+    "css-loader": "^6.8.1",
     "html-webpack-plugin": "^5.2.0",
     "style-loader": "^1.2.1",
     "terser-webpack-plugin": "^4.2.2",
